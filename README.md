@@ -1,5 +1,5 @@
-er<h1 align="center">Hi 👋, I'm xenkw</h1>
-<div> <a href="https://github.com/xenkw" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
+<h1 align="center">Hi 👋, I'm xenkw</h1>
+<div align='center'> <a href="https://github.com/xenkw" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
 </div><h3 align="center">Languages and Tools:</h3>
 <p align="center">
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Languages/javascript-original.svg" alt="Javascript" width="40" height="40"/>
@@ -20,4 +20,4 @@ er<h1 align="center">Hi 👋, I'm xenkw</h1>
 </p>
 
 <h3 align="center">Stars</h3>
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=xenkw&theme=tokyonight" alt="xenkw" /></p>
+<p align='center'><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=xenkw&theme=tokyonight" alt="xenkw" /></p>
